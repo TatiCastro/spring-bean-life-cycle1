@@ -47,5 +47,4 @@ Observe as mensagens no console para verificar as fases do ciclo de vida de `Ite
 ...
 ```
 
-## Licença
-Este projeto está licenciado sob a [MIT License](LICENSE).
+
